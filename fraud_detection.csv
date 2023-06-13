@@ -1,6 +1,0 @@
-"transaction_id,transaction_amount,merchant_name,transaction_date,fraud_label"
-"1,100.25,ABC Mart,2022-01-01,False"
-"2,50.60,XYZ Store,2022-01-02,False"
-"3,200.00,ABC Mart,2022-01-03,True"
-"4,75.80,ABC Mart,2022-01-03,False"
-"5,500.00,XYZ Store,2022-01-04,False"
