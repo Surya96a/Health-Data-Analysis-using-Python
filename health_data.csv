@@ -1,0 +1,6 @@
+"patient_id,age,gender,blood_pressure,cholesterol_level,diabetes_label,heart_disease_label"
+"1,45,M,120/80,180,False,True"
+"2,68,F,140/90,220,True,False"
+"3,32,M,130/85,150,False,False"
+"4,57,F,135/82,190,True,True"
+"5,41,F,125/78,160,False,False"
